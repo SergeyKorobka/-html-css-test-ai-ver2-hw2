@@ -1,10 +1,13 @@
+.section-hero {
+  background-color: #2e2f42;
+}
+
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #2e2f42;
 }
 
 .hero-btn {

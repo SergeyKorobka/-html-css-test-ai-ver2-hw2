@@ -15,10 +15,6 @@ a {
   color: currentColor;
 }
 
-button {
-  cursor: pointer;
-}
-
 .section-title {
   font-size: 36px;
   line-height: 1.11;
